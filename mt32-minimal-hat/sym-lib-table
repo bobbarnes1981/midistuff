@@ -1,0 +1,4 @@
+(sym_lib_table
+  (version 7)
+  (lib (name "Zynthian")(type "Legacy")(uri "${KIPRJMOD}/extras/zynthian/libraries/gy-pcm5102.lib")(options "")(descr ""))
+)

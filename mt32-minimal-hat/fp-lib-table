@@ -1,0 +1,4 @@
+(fp_lib_table
+  (version 7)
+  (lib (name "Zynthian")(type "KiCad")(uri "${KIPRJMOD}/extras/zynthian/footprints")(options "")(descr ""))
+)
